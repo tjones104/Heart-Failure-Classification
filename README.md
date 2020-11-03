@@ -1,1 +1,1 @@
-# Heart-Failure-Classification
+# Heart Failure Classification
