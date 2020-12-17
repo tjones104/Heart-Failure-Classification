@@ -1,4 +1,6 @@
 # Heart Failure Classification
 
-## Project2_Group22_Final.ipynb is the latest ipython file for the project.
-## Everything we did previously is inside the folder Others.
+### In this program we analyze what features in patients contribute most to heart failure and in turn death. We used models such as KNeighbors, Support Vector Machine, Random Forest, Logistic Regression, Gradient Boosting, Bootstraping, aswell as survival model CoxPhFitter.
+
+
+### Link to data https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
